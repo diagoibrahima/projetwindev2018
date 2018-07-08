@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<BODY>
+<UL>
+<li><object type="text/sitemap">
+<param name="Name" value="Tuto Gestion">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Description des fenêtres">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_MENU">
+<param name="Local" value="Fenêtre_FEN_MENU.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Administrateur">
+<param name="Local" value="Fenêtre_FEN_Fiche_Administrateur.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Mission">
+<param name="Local" value="Fenêtre_FEN_Fiche_Mission.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Poste">
+<param name="Local" value="Fenêtre_FEN_Fiche_Poste.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_Tache">
+<param name="Local" value="Fenêtre_FEN_Fiche_Tache.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_employe">
+<param name="Local" value="Fenêtre_FEN_Fiche_employe.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Fiche_service">
+<param name="Local" value="Fenêtre_FEN_Fiche_service.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Administrateur">
+<param name="Local" value="Fenêtre_FEN_Table_Administrateur.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Mission">
+<param name="Local" value="Fenêtre_FEN_Table_Mission.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Poste">
+<param name="Local" value="Fenêtre_FEN_Table_Poste.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_Tache">
+<param name="Local" value="Fenêtre_FEN_Table_Tache.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_employe">
+<param name="Local" value="Fenêtre_FEN_Table_employe.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Table_service">
+<param name="Local" value="Fenêtre_FEN_Table_service.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Administrateur">
+<param name="Local" value="Fenêtre_FEN_Vision_Administrateur.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Mission">
+<param name="Local" value="Fenêtre_FEN_Vision_Mission.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Poste">
+<param name="Local" value="Fenêtre_FEN_Vision_Poste.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_Tache">
+<param name="Local" value="Fenêtre_FEN_Vision_Tache.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_employe">
+<param name="Local" value="Fenêtre_FEN_Vision_employe.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_Vision_service">
+<param name="Local" value="Fenêtre_FEN_Vision_service.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Fenêtre FEN_login">
+<param name="Local" value="Fenêtre_FEN_login.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Description des états">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Administrateur">
+<param name="Local" value="Etat_ETAT_Details_Administrateur.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Mission">
+<param name="Local" value="Etat_ETAT_Details_Mission.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Poste">
+<param name="Local" value="Etat_ETAT_Details_Poste.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_Tache">
+<param name="Local" value="Etat_ETAT_Details_Tache.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_employe">
+<param name="Local" value="Etat_ETAT_Details_employe.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Details_service">
+<param name="Local" value="Etat_ETAT_Details_service.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Administrateur">
+<param name="Local" value="Etat_ETAT_Liste_Administrateur.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Mission">
+<param name="Local" value="Etat_ETAT_Liste_Mission.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Poste">
+<param name="Local" value="Etat_ETAT_Liste_Poste.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_Tache">
+<param name="Local" value="Etat_ETAT_Liste_Tache.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_employe">
+<param name="Local" value="Etat_ETAT_Liste_employe.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Etat ETAT_Liste_service">
+<param name="Local" value="Etat_ETAT_Liste_service.htm">
+</object>
+</ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Divers">
+</object>
+<ul>
+<li><object type="text/sitemap">
+<param name="Name" value="Utilisation du champ table">
+<param name="Local" value="UtilisationTable.htm">
+</object>
+<li><object type="text/sitemap">
+<param name="Name" value="Aperçu avant impression">
+<param name="Local" value="VisualisationEtat.htm">
+</object>
+</ul>
+</ul>
+</UL>
+</BODY>
+</HTML>

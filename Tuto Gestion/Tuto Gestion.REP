@@ -1,0 +1,14 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=8	;Analysis GUID
+LOCALIZATION_UTF8=65C8D00A77D14F1BA38B451558AE3979	client	E:\Mes Projets\Tuto Gestion\Exe\client.fic
+LOCALIZATION_UTF8=65C8D00A77D14F1BA38B451558AE3979	employe	E:\Mes Projets\Tuto Gestion\Exe\employe.fic
+LOCALIZATION_UTF8=69D5AB28318F4A2F92534C2D2A51FB84	Poste	E:\Mes Projets\Tuto Gestion\Exe\Poste.fic
+LOCALIZATION_UTF8=D6427361755A43DF91BF208F3087E1E6	service	E:\Mes Projets\Tuto Gestion\Exe\service.fic
+LOCALIZATION_UTF8=2156CB7385914F3FB65BC057CF6C758E	Mission	E:\Mes Projets\Tuto Gestion\Exe\Mission.fic
+LOCALIZATION_UTF8=69D5AB28318F4A2F92534C2D2A51FB84	Poste	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\Poste.fic
+LOCALIZATION_UTF8=65C8D00A77D14F1BA38B451558AE3979	employe	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\employe.fic
+LOCALIZATION_UTF8=D6427361755A43DF91BF208F3087E1E6	service	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\service.fic
+LOCALIZATION_UTF8=2156CB7385914F3FB65BC057CF6C758E	Mission	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\Mission.fic
+LOCALIZATION_UTF8=6A0DD0C8307F44B2969E16CEBE9B5F31	Administrateur	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\Administrateur.fic
+LOCALIZATION_UTF8=C724E8E4F50E4FE3993C319038F73AA7	Tache	C:\Users\ibrahima\Desktop\projet WINDEV\Tuto Gestion\Exe\Tache.fic

@@ -1,0 +1,15 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+employe		TAR	404	nouvelle taille enregistrement : 404
+employe	IDEmploye	NNR	IDclient	ATTENTION : la clé IDclient a pour nouveau nom IDEmploye
+employe	Matricule	RUB+		Matricule est une nouvelle rubrique
+employe	Datedenaissance	RUB+		Datedenaissance est une nouvelle rubrique
+employe	IDPoste	RUB+		IDPoste est une nouvelle clé
+employe	entreprise	RUB-		la rubrique entreprise est supprimée
+service		NFI		nouveau fichier
+Mission		NFI		nouveau fichier
+Poste		NFI		nouveau fichier
+Tache		NFI		nouveau fichier
+Mission		NWL	Mission (IDMission) et Tache (IDMission)	Nouvelle liaison entre les fichiers Mission (IDMission) et Tache (IDMission)
+service		NWL	service (IDservice) et Poste (IDservice)	Nouvelle liaison entre les fichiers service (IDservice) et Poste (IDservice)
+employe		NWL	employe (IDEmploye) et Mission (IDEmploye)	Nouvelle liaison entre les fichiers employe (IDEmploye) et Mission (IDEmploye)
+Poste		NWL	Poste (IDPoste) et employe (IDPoste)	Nouvelle liaison entre les fichiers Poste (IDPoste) et employe (IDPoste)

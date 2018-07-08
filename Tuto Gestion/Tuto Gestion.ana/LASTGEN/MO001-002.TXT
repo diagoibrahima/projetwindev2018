@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+employe		NNF*	client	nouveau nom employe
+employe		FRN		
